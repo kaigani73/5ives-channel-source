@@ -1,0 +1,8 @@
+{
+  "spec": 2,
+  "channel_id": "my-test-channel",
+  "name": "My Test Channel",
+  "description": "Nothing",
+  "categories": [],
+  "tagline": "Local Test Channel by Kai"
+}
