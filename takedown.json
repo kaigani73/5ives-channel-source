@@ -1,0 +1,14 @@
+{
+  "spec": 2,
+  "registry_id": "my-b019c291bd8dc87f",
+  "version": 1,
+  "entries": [
+    {
+      "asset_id": "disposable-takedown-test-19f5d738d83",
+      "info_hash_v1": "fff2aabe8eccbd1e82c58aac94b483bab5429282",
+      "content_sha256": "5abc8bd2908dd70e7222c90d8d447112981e72d1ccd44018eaba6859600bb2e1",
+      "reason": "Removed by the channel owner.",
+      "at": "2026-07-13T21:51:48.113226400Z"
+    }
+  ]
+}
