@@ -1,0 +1,20 @@
+{
+  "spec": 2,
+  "asset_id": "portrait-playback-test-19f5ea8f589",
+  "title": "Portrait Playback Test",
+  "creator": "Kai Tester Account",
+  "description": "",
+  "duration_seconds": 15,
+  "content_rating": "General",
+  "license": "CC-BY-4.0",
+  "categories": [],
+  "magnet_uri": "magnet:?xt=urn:btih:5131ae0a9245f52c032c6e4baec81e6c484da4a3&dn=portrait-playback-test-19f5ea8f589&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+  "info_hash_v1": "5131ae0a9245f52c032c6e4baec81e6c484da4a3",
+  "content_sha256": "5abc8bd2908dd70e7222c90d8d447112981e72d1ccd44018eaba6859600bb2e1",
+  "files": {
+    "video": "video_1080p.mp4",
+    "poster": "poster.jpg"
+  },
+  "mirror_urls": [],
+  "published_at": "2026-07-14T03:27:02.166837300Z"
+}
