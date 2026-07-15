@@ -1,7 +1,7 @@
 {
   "spec": 2,
   "channel_id": "my-test-channel",
-  "version": 2,
+  "version": 3,
   "valid_from": "2026-07-19T00:00:00Z",
   "valid_until": "2026-07-20T00:00:00Z",
   "slots": [
